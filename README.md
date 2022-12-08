@@ -1,6 +1,11 @@
 # physical-computing
-#Week5 ideation
-**Week6 sensor choose&Separate experimentation**
-Week7 Code integration
-Week8solder
-Week9 detail update&suitable housing make
+
+**Week5-Ideation**
+
+**Week6-Sensor choose & Separate experimentation**
+
+**Week7-Code integration**
+
+**Week8-Solder**
+
+**Week9-Detail update & Suitable housing make**
