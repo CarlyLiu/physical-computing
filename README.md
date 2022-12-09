@@ -220,6 +220,6 @@ This week we've basically run through the code and started on the appearance par
 
 <img width="1016" alt="截屏2022-12-09 04 58 12" src="https://user-images.githubusercontent.com/112803802/206627314-12aee3ff-ec08-4d18-be98-532bcc095103.png">
 
-
+video：https://youtu.be/3iJLrwLOTnE
 
 ###### Thinking：This project has made me feel the power of collaboration. Everyone has their own strengths, and when the group will play their own strengths, it will make the project better, because one person is limited, and it also made me feel that many people think differently. Some students would choose to do the installation first and then the code, we would choose to do the code first and then the appearance, but it's not as different as I thought, it's probably more like walking on the left foot first and walking on the right foot first, only two feet, walking at the same time can get a good result, one leg can't jump far.
