@@ -2,6 +2,8 @@
 
 ### Week5-Ideation
 
+Project：[Nuo Liu & Yihan Wang.pdf](https://github.com/CarlyLiu/physical-computing/files/10195945/Nuo.Liu.Yihan.Wang.pdf)
+
 For this project I want to make an band through Arduino in which people can experience the fun in conducting. I think this installation will be extremely cool to create. People can conduct through the control of the stick. The project seemed very interesting to me, but it was difficult for me to make it work well alone. yihan has a great visual ability and we decided to work together as a team to make this project better.
 
 At first I was going to do realistic bands that people could conduct. yihan said that if it was a simulated band, the fun would be a little more generic. He came up with a super fun theme - a vegetable band. People could conduct a vegetable band and it would be more fun to play with.I thought it was a really brilliant idea, so we hit it off and started to build a scheme for the project.
