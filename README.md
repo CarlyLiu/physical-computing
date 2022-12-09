@@ -176,6 +176,8 @@ void loop() {
 
 ### Week7-Code integration
 
+![未命名绘图 的副本 drawio](https://user-images.githubusercontent.com/112803802/206732381-3751f225-7bec-491c-883b-4c1cecb70910.png)
+
 Since the integration part of the code and some of the production part together would have been more time consuming instead, we decided to divide the work and I was responsible for the integration part of the code. I think the biggest difficulty with the integration of the code is that if you get them all running at the same time in one file, the next step is to get them to adapt to the desired logic.
 
 The first difficult thing happened at the beginning, because after combining them in one code, the computer could not get to the Arduino. I found out that it was a problem with the power supply, as there were too many components to make a proper power supply. I considered an external power supply with batteries to keep them running properly. 
@@ -198,6 +200,8 @@ Later we had a tutorial with Phoenix, who told us that we needed to solder some 
 
 ![3981670559583_ pic](https://user-images.githubusercontent.com/112803802/206623232-aed1ac15-3aa6-4a29-9ade-62925c147601.jpg)
 
+<img width="528" alt="截屏2022-12-09 15 09 47" src="https://user-images.githubusercontent.com/112803802/206732621-49be2d37-1179-41a8-a8b3-2416e4659ddf.png">
+
 I also tested the code during the week, because pointing to different locations will have different data, so we need to connect the locations to the data, but at the same time this connection is more complicated and tedious work, and then I spent a lot of time doing this work.
 
 ![IMG_4011](https://user-images.githubusercontent.com/112803802/206621707-fd4f92ee-31e8-4afb-b7a7-da7950caa7d3.jpeg)
@@ -211,5 +215,7 @@ This week we've basically run through the code and started on the appearance par
 ![161670561097_ pic](https://user-images.githubusercontent.com/112803802/206625819-4566b74a-9d1c-4962-a3f7-e8a4c71aaec1.jpg)
 
 <img width="1016" alt="截屏2022-12-09 04 58 12" src="https://user-images.githubusercontent.com/112803802/206627314-12aee3ff-ec08-4d18-be98-532bcc095103.png">
+
+
 
 ###### Thinking：This project has made me feel the power of collaboration. Everyone has their own strengths, and when the group will play their own strengths, it will make the project better, because one person is limited, and it also made me feel that many people think differently. Some students would choose to do the installation first and then the code, we would choose to do the code first and then the appearance, but it's not as different as I thought, it's probably more like walking on the left foot first and walking on the right foot first, only two feet, walking at the same time can get a good result, one leg can't jump far.
