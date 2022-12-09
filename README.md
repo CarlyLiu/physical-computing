@@ -188,6 +188,10 @@ Here is the little led bulb that gave its life to check if the battery was charg
 
 But the battery I have is 9v, the power supply that the Arduino is connected to above the components is 5v, the sensor is borrowed from the college and I am very afraid of burning out the components because of the battery voltage, I see that the mp3 components support a separate power supply from 5v-12v. So I used a 9v power supply to power the mp3 components separately, but the problem with the separate power supply was that the mp3 did not produce sound, so the separate power supply did not solve the problem either. Then I found out that the vin port on the Arduino board can be used for one positive output, so when I split the three components into three parts for positive and negative output input, it was enough to support the power supply, and then the power supply problem was solved.
 
+![IMG_4011](https://user-images.githubusercontent.com/112803802/206621707-fd4f92ee-31e8-4afb-b7a7-da7950caa7d3.jpeg)
+
+I used wasabi disposable chopsticks as a command stick to simulate a command state, which worked very well because its length and width were perfect for the whole experience of connecting to the components, which worked very well.
+
 The MP3 component also had a problem with the code synthesis not ringing, and later after checking it was found to be a problem with serial: because when set up is set up it will initialise Serial.begin(9600), but mp3 is set up separately Serial1.begin(9600) is initialised, and then 1 and l in the Arduino font are very similar looking The initialization of the mp3 is a separate set initialization, which I didn't notice when I was doing it, and found out after a long time of troubleshooting that they need to be set up separately.
 
 ### Week8-Solder
@@ -204,9 +208,7 @@ Later we had a tutorial with Phoenix, who told us that we needed to solder some 
 
 I also tested the code during the week, because pointing to different locations will have different data, so we need to connect the locations to the data, but at the same time this connection is more complicated and tedious work, and then I spent a lot of time doing this work.
 
-![IMG_4011](https://user-images.githubusercontent.com/112803802/206621707-fd4f92ee-31e8-4afb-b7a7-da7950caa7d3.jpeg)
-
-I used wasabi disposable chopsticks as a command stick to simulate a command state, which worked very well because its length and width were perfect for the whole experience of connecting to the components, which worked very well.
+<img width="970" alt="截屏2022-12-09 15 12 30" src="https://user-images.githubusercontent.com/112803802/206733173-9f26d691-ad15-4cc6-a8db-2d4639b150af.png">
 
 ### Week9-Detail update & Suitable housing make
 
